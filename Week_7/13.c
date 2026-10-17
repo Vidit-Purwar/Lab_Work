@@ -42,3 +42,5 @@ int main(){
     
     free(p);
 }
+
+// 2nd program demonstrates matrix multiplication, which already done in 3.c
